@@ -1,0 +1,20 @@
+# Requirements for EO Segmentation notebooks
+
+# Deep Learning
+torch
+torchvision
+torchinfo
+
+# Geospatial / EO
+rasterio
+
+# Data Science
+numpy
+pandas
+matplotlib
+seaborn
+
+# Utilities
+requests
+tqdm
+
